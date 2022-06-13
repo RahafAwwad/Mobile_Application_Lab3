@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3S</string>
+    <string name="hint_Season">choose a season</string>
+    <string-array name="SN">
+        <item>Summer</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+    </string-array>
+</resources>
